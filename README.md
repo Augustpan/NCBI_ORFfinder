@@ -1,0 +1,2 @@
+- ORFfinder version = 0.4.3
+- build with command `docker build -t yfpan16/orffinder:0.4.3 .`
